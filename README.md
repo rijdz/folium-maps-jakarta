@@ -1,7 +1,7 @@
 # folium-maps-jakarta
 This project contain the implementation of folium maps using choroplath & geojson method.
 
-![jakarta-map.png](jakarta-map.png)
+![jakarta-map.png](./assets/jakarta-map.png)
 
 ## Prerequisite
 
@@ -23,8 +23,8 @@ Generate Geojson format using generate_coordinate.ipynb
 
 |   |   |   |   |
 |---|---|---|---|
-| ![cartodbpositron](jakarta-map.png)cartodbpositron | ![cartodbdark_matter](jakarta-cartodbdark_matter.png)cartodbdark_matter  | ![Mapbox_Bright](jakarta-Mapbox-bright.png) Mapbox Bright  | Mapbox Control Room  |
-| ![jakarta-stamenwatercolor.png](jakarta-stamenwatercolor.png) stamenwatercolor  | ![Stamen Toner](jakarta-stamentoner.png) Stamen Toner | ![Stamen Terrain](jakarta-stammenterrrain.png) Stamen Terrain |   |
+| ![cartodbpositron](./assets/jakarta-map.png)cartodbpositron | ![cartodbdark_matter](./assets/jakarta-cartodbdark_matter.png)cartodbdark_matter  | ![Mapbox_Bright](./assets/jakarta-Mapbox-bright.png) Mapbox Bright  | Mapbox Control Room  |
+| ![jakarta-stamenwatercolor.png](./assets/jakarta-stamenwatercolor.png) stamenwatercolor  | ![Stamen Toner](./assets/jakarta-stamentoner.png) Stamen Toner | ![Stamen Terrain](./assets/jakarta-stammenterrrain.png) Stamen Terrain |   |
 
 
 
